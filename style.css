@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+div .img{
+    width: 56px;
+    height: 46px;
+    top: 18px;
+    left: 57px;
+    margin: 0px 800px 0px 57px;
+}
+.dad{
+    width: 1366px;
+    height: 82px;
+    background-color: #000000;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+div .h22{
+    color: black;
+    font-family: "Inter", sans-serif;
+    margin: 26px 78px 24px 0px;
+    /* text-align: left; */
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24.2px;
+    background-color: #F1A900;
+    width: 212px;
+    height: 82px;
+    left: 1191px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div .img3{
+    width: 10px;
+    height: 10px;
+    top: 47px;
+    left: 1161px;
+    angle: 180 deg;
+    margin: 0px 30px 0px 0px ;
+}
+div .img2{
+    margin: 0px 14px 0px 0px ;
+}
+div h2{
+    margin: 0px 4px 0px 0px ;
+}
+.dadd{
+    font-family: "Inter", sans-serif;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #222222;
+    width: 1366px;
+    height: 44px;
+    top: 82px; 
+    color: white;
+    align-items: center;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19.36px;
+}
+.dadd .img4{
+    width: 10px;
+    height: 10px;
+    top: 110px;
+    left: 382px;
+    angle: 180 deg;
+    margin: 0px 0px 0px -170px;
+}
+body{
+    background-image: url(img/bg.png);
+}
+.bab h2{
+    font-family: "Inter", sans-serif;
+    width: 130px;
+    height: 53px;
+    background-color: #F1A900;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bab .dd{
+    font-family: "Inter", sans-serif;
+    background-color: black;
+    color: white;
+    width: 160px;
+    height: 53px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ddd{
+    font-family: "Inter", sans-serif;
+    background-color: #F1A90054;
+    color: white;
+    width: 500px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.bab{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+    gap: 25px;
+}
+.va{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: -250px 0px 0px 0px ;
+}
+.ere{
+   margin: 200px 0px 0px 0px ;
+}
+.ere .img11{
+    margin: 0px 1000px 0px 57px;
+}
+.ere .img22{
+    width: 24px;
+    height: 24px;
+    margin: 0px 52px 0px 0px;
+}
+.ere .img33{
+    width: 24px;
+    height: 24px;
+    margin: 0px 52px 0px 0px;
+}
+.ere .img44{
+    width: 24px;
+    height: 24px;
+    margin: 0px 52px 0px 0px;
+}
+.ere{
+    background-color: black;
+    width: 1366px;
+    height: 82px;
+    background-color: #000000;
+    display: flex;
+    align-items: center;
+}
